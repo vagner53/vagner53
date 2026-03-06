@@ -1,4 +1,5 @@
-#vagner53 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSph>
+#vagner53
+Sou Vagner Benedito, estudante de Desenvolvimento e apaixonado por tecnologia. Minha trajetória começou na área técnica, com formação em Assistente Contábil e cursos de Hardware e Redes, onde desenvolvi organização, raciocínio lógico e visão analítica. Hoje direciono meu foco para o desenvolvimento de sistemas, unindo conhecimento técnico e experiência prática para criar soluções eficientes.>
 <h1>Olá! Eu sou <a href="https://github.com/Defcon27">Vagner</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### 📬 Onde me encontrar
