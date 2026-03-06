@@ -3,34 +3,18 @@
 
 ### 📬 Onde me encontrar
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagner-oliveira)](https://www.linkedin.com/in/julianasplopes)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.vagneroliveira53@gmail.com)](mailto:defcon.julianasouzapl1409@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagner-oliveira)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.vagneroliveira53@gmail.com)])
 
 
 ---
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-Sou professora 🎓, apaixonada por educação e tecnologia, com foco no ensino de Computação e Lógica de Programação.
-Sou uma entusiasta de tecnologia 💻 😃, sempre em busca de aprender, aplicar e ensinar novas ferramentas e conceitos de forma simples e acessível.
-Adoro criar materiais didáticos, projetos práticos e soluções educacionais que tenham propósito e impacto real na aprendizagem dos alunos.
-
----
-
-## ⚡️ Alguns fatos rápidos
-
-- 🔭 Atualmente atuo como professora, ensinando Tecnologia, Lógica de Programação e Computação para diferentes níveis de ensino
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Gosto de trabalhar com:
-  - 🧠 Lógica de Programação (principalmente com Python)
-  - 📊 Projetos simples de dados e introdução ao BI
-  - 🧩 Atividades práticas, desafios e jogos de lógica
-  - 🎓 Metodologias ativas e projetos educacionais
-- 📝 Crio materiais didáticos, atividades práticas e projetos voltados para facilitar a aprendizagem
-- 👯 Tenho interesse em colaborar em projetos educacionais, especialmente voltados ao ensino de programação e tecnologia
-- 💬 Pergunte-me sobre Python, Algoritmos, GitHub, Portfólio, Lógica de Programação e Educação Tecnológica
-- 📙Confira meu portfólio/currículo (https://www.linkedin.com/in/julianasplopes/)
-- 🎉 Curiosidade: Amo ❤️ Astrofísica e a SpaceX 🚀 e assisto muitos filmes de Ficção Científica 🎬
-
+Sobre mim
+Sou Vagner Benedito, estudante de Desenvolvimento e apaixonado por tecnologia. Minha trajetória começou na área técnica, com formação em Assistente Contábil e cursos de Hardware e Redes, onde desenvolvi organização, raciocínio lógico e visão analítica. Hoje direciono meu foco para o desenvolvimento de sistemas, unindo conhecimento técnico e experiência prática para criar soluções eficientes.
+- <img src=
 ---
 
 ### 🖥️ Meu ambiente de desenvolvimento
